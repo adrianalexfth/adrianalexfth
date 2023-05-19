@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @adrianalexfth
+- 👀 I’m interested in programming and creating games in unity or unreal engine.
+- 🌱 I’m currently learning java.
